@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@types/lodash": "^4.17.7",
+    "lecture17": "file:",
     "lodash": "^4.17.21",
     "next": "14.2.11",
     "react": "^18",
